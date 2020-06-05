@@ -10,4 +10,4 @@ f1=abs(FT1);
 f2=abs(FT2);  
 f3=abs(FT3);  
 
-fplot(f3)
+fplot(f2)
